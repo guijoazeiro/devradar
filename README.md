@@ -1,3 +1,3 @@
 ## DevRadar
 
-#### Aplicativo para encontrar desenvolvedor por distância e tecnologias
+#### Aplicativo para encontrar desenvolvedores por distância e tecnologias.
